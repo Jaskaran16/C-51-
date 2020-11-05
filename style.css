@@ -1,0 +1,19 @@
+h1{
+color:#b656
+}
+.header{
+    background-color:#c15103;
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    }
+*{
+border:solid;
+}
+a:visited{
+    color:red
+    }
+    a:link{
+    color:goldenrod
+    }
+    
